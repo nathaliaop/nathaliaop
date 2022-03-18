@@ -1,7 +1,7 @@
-### System.out.println("UwU")
+### print("UwU")
 
-![Badge](https://cp-logo.vercel.app/codeforces/nathaliaop)
-![Badge](https://cp-logo.vercel.app/atcoder/nathaliaop)
+![Badge](https://cp-logo.vercel.app/codeforces/liaoli)
+![Badge](https://cp-logo.vercel.app/atcoder/liaoli)
 ![Badge](https://cp-logo.vercel.app/uri/384586)
 
 
