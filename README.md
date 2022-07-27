@@ -2,7 +2,6 @@
 
 ![Badge](https://cp-logo.vercel.app/codeforces/liaoli)
 ![Badge](https://cp-logo.vercel.app/atcoder/liaoli)
-![Badge](https://cp-logo.vercel.app/uri/384586)
 
 <div align="center">
   <a href="https://github.com/nathaliaop">
